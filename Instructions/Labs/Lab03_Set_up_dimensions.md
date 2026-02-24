@@ -86,7 +86,7 @@ You will perform -
 
 1.  Assign Account Type Default Dimensions for the customer group.
 
-    1.  In the **Dimensions** page, select the **CUSTOMERGROUP** dimension.
+    1.  In the **Dimensions** page,select **New**,and in the **Code** field enter **CUSTOMERGROUP** dimension.
 
     2.  Select **Dimension**, and then select **Account Type Default Dim.**.
 
