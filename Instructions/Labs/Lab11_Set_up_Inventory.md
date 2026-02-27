@@ -222,7 +222,7 @@ You will perform
                 and select **Select from full list**.
 
             2.  In the opened **Item Attributes** page, select the **Color**
-                attribute.
+                attribute.Create a new color attribute if you do not find it from the list.
 
             3.  Select on the **Values** of **Color**.
 
